@@ -1,0 +1,58 @@
+section{
+    display:block;
+}
+.shadow-box {
+    box-shadow: 0px 0px 10px #ddd;
+    padding: 15px;
+}
+.container {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+* {
+    box-sizing: border-box;
+}
+
+div {
+    display: block;
+}
+.row {
+    margin-right: -15px;
+    margin-left: -15px;
+}
+* {
+    box-sizing: border-box;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+
+h1{
+    margin-top:80px;
+    margin-left:100px;
+    margin-bottom:25px;
+    font-weight:bold;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size:80px;
+    color:black;
+}
+h3{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size:25px;
+    font-weight: 500;
+    margin-bottom: 20px;
+}
+.col-sm-9{
+    padding:80px;
+}
+h2{
+    margin-top:80px;
+    margin-bottom:25px;
+    font-weight:bold;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size:40px;
+    color:black;
+}
